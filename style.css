@@ -1,0 +1,16 @@
+html {
+    background-color: black;
+    color: white;
+}
+
+table, th, td {
+
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
